@@ -1,5 +1,5 @@
 module.exports = {
     devServer: {
-      port: "https://app-stock-sahar.herokuapp.com/"
+      port: 8081
     }
   }
